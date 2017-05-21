@@ -1,0 +1,19 @@
+## Welcome to Elbert's Homepage
+
+This is the link [Google](https://www.google.com)
+
+# This is Header 1
+
+## This is Header 2
+- Bulleted
+- List
+
+### This is Header 3
+
+1. Numbered
+2. List
+**Bold** and _Italic_ and `Code` text
+
+This is Elbert's Profile
+![Profile]
+(https://github.com/Elbert-Sun/myWebsite/blob/master/images/Sun.jpg）
