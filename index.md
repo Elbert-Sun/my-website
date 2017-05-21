@@ -1,6 +1,6 @@
 ## Welcome to Elbert's Homepage
 
-This is the link [Google](https://www.google.com)
+This is Elbert's [CV](https://elbert-sun.github.io/my-website/asset/CV.pdf)
 
 # This is Header 1
 
