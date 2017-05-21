@@ -16,4 +16,4 @@ This is Elbert's [CV](https://elbert-sun.github.io/my-website/asset/CV.pdf)
 
 This is Elbert's Profile
 ![Profile]
-(https://elbert-sun.github.io/my-website/images/Sun.jpg)
+(/images/Sun.jpg)
