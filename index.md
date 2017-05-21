@@ -16,4 +16,4 @@ This is the link [Google](https://www.google.com)
 
 This is Elbert's Profile
 ![Profile]
-(https://elbert-sun.github.io/my-website/images/Sun.jpg）
+(https://elbert-sun.github.io/my-website/images/Sun.jpg)
