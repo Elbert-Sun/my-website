@@ -15,5 +15,4 @@ This is Elbert's [CV](https://elbert-sun.github.io/my-website/asset/CV.pdf)
 **Bold** and _Italic_ and `Code` text
 
 This is Elbert's Profile
-![Profile]
-(/images/Sun.jpg)
+![Image of Yaktocat](https://elbert-sun.github.io/my-website/images/Sun.jpg)
