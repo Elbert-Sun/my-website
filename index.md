@@ -1,5 +1,5 @@
 # Welcome to Elbert's Homepage
-![Elbert's Profile](https://elbert-sun.github.io/my-website/images/Sun.jpg)
+ <center><img src="https://elbert-sun.github.io/my-website/images/Sun.jpg"> </center>
 
 
 # Elbert's CV
