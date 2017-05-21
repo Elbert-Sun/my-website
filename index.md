@@ -1,9 +1,9 @@
-## Welcome to Elbert's Homepage
+# Welcome to Elbert's Homepage
+![Elbert's Profile](https://elbert-sun.github.io/my-website/images/Sun.jpg)
 
-This is Elbert's [CV](https://elbert-sun.github.io/my-website/asset/CV.pdf)
 
-# This is Header 1
-
+# Elbert's CV
+**This is Elbert's ** [CV](https://elbert-sun.github.io/my-website/asset/CV.pdf)
 ## This is Header 2
 - Bulleted
 - List
@@ -14,5 +14,4 @@ This is Elbert's [CV](https://elbert-sun.github.io/my-website/asset/CV.pdf)
 2. List
 **Bold** and _Italic_ and `Code` text
 
-This is Elbert's Profile
-![Image of Yaktocat](https://elbert-sun.github.io/my-website/images/Sun.jpg)
+
